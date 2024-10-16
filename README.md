@@ -1,6 +1,6 @@
 # inlinepowerpick
 
-beacon > execute-assembly inlinepowerpick.cs
+`beacon > execute-assembly inlinepowerpick.cs`
 
 - Add the following reference:
 
